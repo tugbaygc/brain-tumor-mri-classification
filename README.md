@@ -19,7 +19,7 @@ En Zayıf Performans (Recall)	Meningioma: %31	Model, Meningioma vakalarının b�
 Teknik Detaylar
 Bileşen	Detay
 Veri Seti	4 sınıf (Glioma, Meningioma, Pituitary, Notumor) içeren MR görüntüleri.
-Model Mimarisi	3 Evrişimsel bloktan oluşan, sıfırdan oluşturulmuş derin CNN.
+Model Mimarisi	2 Evrişimsel bloktan oluşan, sıfırdan oluşturulmuş derin CNN.
 Epoch Sayısı	Aşırı öğrenmeyi kontrol etmek için 15 epoch ile eğitim yapılmıştır.
 Optimizasyon	Adam Optimizer
 Kayıp Fonksiyonu	Categorical Crossentropy
