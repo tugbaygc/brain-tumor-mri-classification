@@ -58,7 +58,8 @@ Model, test veri seti üzerinde **%72 Genel Doğruluk (Accuracy)** oranına ula�
 
 Aşağıdaki örnekte, modelin bir Hipofiz tümörünü tespit ederken MR görüntüsünün hangi bölgesine odaklandığı görülmektedir. Kırmızı/Sarı alanlar, modelin "Tümör burada" dediği bölgeleri temsil eder.
 
-*(Buraya Grad-CAM çıktısı olan görseli ekleyebilirsiniz. Örn: ![][gradcam_resmi])*
+<img width="1033" height="530" alt="image" src="https://github.com/user-attachments/assets/a08ea375-3922-4758-982b-fea2212b033b" />
+
 
 ## 6. Kaggle Notebook
 
